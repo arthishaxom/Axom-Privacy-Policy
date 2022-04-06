@@ -8,6 +8,7 @@
 - **Guild Names And Guild Icon For Tournament Info Webhook**
 - **Message Content While Points Calculation And Exporting Leaderboards**
 - **Message Content For Tournament Info Webhook**
+  **_Only The Message Content Sent During The Command Is Stored._**
 
 ## Who Can Access These Data?
 
@@ -20,11 +21,11 @@
 - **Message Content For Temporary Period While Points Calculation And Exporting Leaderboards**
 - **Message Content & Guild IDs/Names Are Also Used In Tourney Info Webhook While Sending The Webhook.**
 - **These Data Are Stored In database OR csv Files Until Deletetion**
-- **These Data Are Removed Immediately After Sending The Calculated Points/Leaderboards/Tournamnet Info Webhooks**
+- **These Data Are Removed Immediately After Sending The Calculated Points/Leaderboards/Tournament Info Webhooks**
 
 ## How Can I Rid Of The Stored Data?
 
-- **These Data Are Deleted Automatically As Said Above, The Data Is Deleted Right After Sending The Calculated Points/Leaderboards/Tournamnet Info Webhooks. So Just Wait Until The Points Are Calculated/Leaderboards Are Sent/Tournamnet Info Webhooks Are Sent.**
+- **These Data Are Deleted Automatically As Said Above, The Data Is Deleted Right After Sending The Calculated Points/Leaderboards/Tournament Info Webhooks. So Just Wait Until The Points Are Calculated/Leaderboards Are Sent/Tournament Info Webhooks Are Sent.**
 
 ## I Have A Question Which This Privacy Policy Does Not Answer, What Should I Do?
 
