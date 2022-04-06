@@ -14,7 +14,7 @@
 ## Who Can Access These Data?
 
 - **Bot Developer(s)**
-- **Everyone Can View The Points Calculated Through the Leaderboard OR The Guild Names And Guild Icon(If It Is Sent To A Public Channel)**
+- **Everyone Can View The Points Calculated Through the Leaderboard OR The Guild Names And Guild Icon Through Tourney Info webhook (If It Is Sent To A Public Channel)**
 
 ## Why Does Axom Store These Data & For How Long?
 
@@ -26,8 +26,8 @@
 
 ## How Can I Rid Of The Stored Data?
 
-- **These Data Are Deleted Automatically As Said Above, The Data Is Deleted Right After Sending The Calculated Points/Leaderboards/Tournament Info Webhooks. So Just Wait Until The Points Are Calculated/Leaderboards Are Sent/Tournament Info Webhooks Are Sent.**
+**These Data Are Deleted Automatically As Said Above, The Data Is Deleted Right After Sending The Calculated Points/Leaderboards/Tournament Info Webhooks. So Just Wait Until The Points Are Calculated/Leaderboards Are Sent/Tournament Info Webhooks Are Sent.**
 
 ## I Have A Question Which This Privacy Policy Does Not Answer, What Should I Do?
 
-- **Join Our [Support Server](https://discord.gg/uW7WXxBtBW)**
+**Join Our [Support Server](https://discord.gg/uW7WXxBtBW)**
