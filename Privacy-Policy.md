@@ -8,7 +8,7 @@
 - **Guild Names And Guild Icon For Tournament Info Webhook**
 - **Message Content While Points Calculation And Exporting Leaderboards**
 - **Message Content For Tournament Info Webhook**
-  **_Only The Message Content Sent During The Command Is Stored._**
+**_Only The Message Content Sent During The Command Is Stored._**
 
 ## Who Can Access These Data?
 
